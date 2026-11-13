@@ -21,7 +21,7 @@ By day: AI-native software engineer (agents, evals, LLM inference). By night: wh
 | Project | What | Traction |
 |---|---|---|
 | [**Echo Dot 2 Playground**](https://github.com/albertoZurini/echo-dot-2-playground) | Rooted a $5 Amazon Echo Dot 2 and ran a 25.8M-param LLM on it (512MB RAM, 16/8 tok/s prefill/decoding). First on the device. | ⭐ 200+ stars |
-| [**iOS 6 Simulator**](https://ios6-simulator.vercel.app/) | Reddit kept posting skeuomorphic iOS 6 screenshots, but nobody could *use* one. So I built it and shipped from their comments. | ~200 DAU, $0 marketing |
+| [**iOS 6 Simulator**](https://ios6-simulator.vercel.app/) | Reddit kept posting skeuomorphic iOS 6 screenshots, but nobody could *use* one. So I built it and shipped from their comments. | ~400 DAU, $0 marketing |
 | [**Mappa Zone Italia**](https://www.facebook.com/mappazoneitalia/) | Real-time map of Italy's COVID restriction zones. | 10k Google Play downloads |
 | [**Fake-follower tracker**](https://james-charles-followers-count.vercel.app/) | Built in a hurry to ride an influencer drama. | 10k visits/day, 2.5M+ TikTok views, $80 in donations (thanks!) |
 | [**NerfTube**](https://github.com/albertoZurini/NerfTube) | Chrome extension that makes YouTube boring on purpose: grayscale + throttled FPS. | Solved my YouTube addiction |
